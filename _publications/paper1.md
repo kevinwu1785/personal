@@ -1,6 +1,6 @@
 ---
 title: "At What Price? Party Taxation and Member Advancement in the U.S. House"
-collection: publications
+collection:
 category: manuscripts
 permalink: /publication/paper1
 excerpt: 'Lawrence S. Rothenberg and Kevin Wu'
