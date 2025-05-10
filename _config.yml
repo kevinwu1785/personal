@@ -23,13 +23,13 @@ repository               : "personal/kevinwu1785.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tse-Luen (Kevin) Wu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Rochester, NY"
+  employer         : "University of Rochester"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "twu35@ur.rochester.edu" 
 
   # Academic websites
   academia         : # URL
