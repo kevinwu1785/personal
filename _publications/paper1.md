@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/paper1
 excerpt: 'Lawrence S. Rothenberg and Kevin Wu'
-date: ''
+date: '2025-05-10'
 venue: 
 slidesurl: 
 paperurl: 
