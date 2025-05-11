@@ -12,8 +12,6 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "CV"
-    url: /curriculum_vitae/
 
   #- title: "Teaching"
   #  url: /teaching/    
@@ -25,8 +23,8 @@ main:
   #  url: /year-archive/
     
  
-  #- title: "CV"
-  # url: /cv-json/
+  - title: "CV"
+    url: /cv-json/
     
   # - title: "Guide"
   #  url: /markdown/
