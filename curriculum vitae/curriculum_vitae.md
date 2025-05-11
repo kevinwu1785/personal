@@ -1,7 +1,7 @@
 ---
 layout: compress
 title: "Curriculum Vitae"
-permalink: /curriculum vitae/
+permalink: /curriculum_vitae/
 author_profile: true
 ---
 
