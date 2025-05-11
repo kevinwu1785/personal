@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: archive
 title: "Curriculum Vitae"
 permalink: /curriculum_vitae/
 author_profile: true
