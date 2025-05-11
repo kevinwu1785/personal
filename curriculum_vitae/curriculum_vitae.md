@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: cvnew
 title: "Curriculum Vitae"
 permalink: /curriculum_vitae/
 author_profile: true
